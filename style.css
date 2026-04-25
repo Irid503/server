@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    width: 200px;
+    position: absolute;
+    left: 0;
+}
+
+main {
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 50px;
+}
